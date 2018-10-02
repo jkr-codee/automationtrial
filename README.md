@@ -57,6 +57,7 @@ Please note that this trial uses log4net for logging additional information whil
 - Goto the folder "ERM.AutomationTrial" from the downloaded source
 - Run the "RunTest.bat" and wait until the tests are completed. Test results are stored in the file "TestResult.xml"
 - Once completed, pickle will generate document in dynamic html format output and stores the result documents in "Documentation" folder
+- Goto the Documentation folder via explorer and open index.html to review the results.
 
 #### Browser Driver Download and install instructions
 If you want to download the drivers manually you can go to the specific driver download links and put them in the bin folder of your project. 
