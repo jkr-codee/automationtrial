@@ -5,19 +5,15 @@ The purpose of this application is to write some automated UI and REST Api testi
 - Makes a call to RestAPI, deserialize the JSON data to Domain entity and then do some tests
 
 ## Software Requirements
-### Supported Version
-#### Supported Operating System
 Windows 10
-#### Supported Visual studio 
 Microsoft Visual Studio 2017
-#### Others
--Selenium: Web Browser automation
--Specflow: BDD Tool
--Restsharp: Rest API Client
--Nunit: Test runner
--Newtonsoft.JSON: For deserialization REST data to domain entity
--log4net: For generating logs
--Pickle: For live report generation of
+Selenium: Web Browser automation
+Specflow: BDD Tool
+Restsharp: Rest API Client
+Nunit: Test runner
+Newtonsoft.JSON: For deserialization REST data to domain entity
+log4net: For generating logs
+Pickle: For live report generation of
 
 ## Coverage #
 ### Login
