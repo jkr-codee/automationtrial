@@ -44,6 +44,9 @@ Below are the list of keys that defines appropriate keys/values to run the test
 - NopCommerceUrl: Url for nop-commerce site
 - RestEndpoint: Url for the REST end point https://jsonplaceholder.typicode.com/posts
 
+#### Log4net configuration
+Please note that this trial uses log4net for logging additional information while running the tests. Log4net generates uses Console and FileAppender to generate the output and the file appender is configured to generate the logfile (AutomationTrial.log) in c:\temp folder. 
+
 #### How to run the test
 ##### From VS2017 Test Explorer
 - Open Test explorer in VS2017 from Test -> Windows -> Test Explorer
