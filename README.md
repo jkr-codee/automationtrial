@@ -33,7 +33,7 @@ Pickle: For live report generation of
 
 ## Setup #
 #### Compile Solution:
-1. Dowload the solution 
+1. Dowload the solution from https://github.com/jkr-codee/automationtrial
 2. Open in VS2017 as it was developed using VS2017
 3. Once solution is opened you just need to build the solution to restore the packages. For the specific browser drivers, you can add them using NUGET. The default driver is Chrome and the NUGET package is already installed on the Sample project.   
 4. Once compiled you should be able to run the test by following the instructions from "How to run the test" section
