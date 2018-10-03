@@ -2,7 +2,7 @@
 The purpose of this application is to write some automated UI and REST Api testing to do the following,
 - Verify login scenarios for nop-commerce site
 - Register a new account in nop-commerce site
-- Makes a call to RestAPI, deserialize the JSON data to Domain entity and then do some tests
+- Makes a call to RestAPI, deserialize the JSON data to Domain entity and run tests
 
 ## Software Requirements
 - Windows 10
